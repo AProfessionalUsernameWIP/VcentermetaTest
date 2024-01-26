@@ -37,7 +37,7 @@ Create a configuration file `config.ini` with the following structure:
 ```ini
 [vCenter]
 host = 192.168.1.########
-user = ########@########.local
+user = ########@########.####
 password = ########
 
 [Cluster]
